@@ -18,9 +18,18 @@ h1{
     text-align: center;
 }
 .center{
-    padding: 100px;
+padding: 30%;
 }
 button{
-    background-color: brown;
+    display:flex;
+    width:20%;
+    color: white;
+    background-color: chocolate;
+    margin-left: 38%;
+    margin-top: 5%;
+    font-size: 100%;
+    border-radius: 15%;
+    
+
 }
 
